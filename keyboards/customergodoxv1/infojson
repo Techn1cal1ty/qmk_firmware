@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "Handwired Ergodox",
+    "url": "",
+    "maintainer": "Techn1cal1ty",
+    "width": 16,
+    "height": 10,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                "default"
+            ]
+        }
+    }
+}
